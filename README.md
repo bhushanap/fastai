@@ -10,11 +10,8 @@ Note: Will take a long time to run for larger images as that many forward passes
 Here are some results:
 <table>
   <tr>
-    <td><img src="[grid_1](https://github.com/bhushanap/fastai/assets/83635464/d9ab9818-7f85-427f-be19-a9cdd3ab8b60)" alt="grid 1"></td>
-    <td><img src="[grid_2](https://github.com/bhushanap/fastai/assets/83635464/e23d736b-9be3-4c5b-ab9f-ef9e856794ae)" alt="grid 2"></td>
-    <td><img src="[grid_3](https://github.com/bhushanap/fastai/assets/83635464/9fb1fe8b-38eb-4792-876b-cf49d36baf50)" alt="grid 3"></td>
+    <td><img src="https://github.com/bhushanap/fastai/raw/main/exercise1/landscapes/grid_1.png" alt="Image 1"></td>
+    <td><img src="https://github.com/bhushanap/fastai/raw/main/exercise1/landscapes/grid_2.png" alt="Image 2"></td>
+    <td><img src="https://github.com/bhushanap/fastai/raw/main/exercise1/landscapes/grid_3.png" alt="Image 3"></td>
   </tr>
 </table>
-![grid_1](https://github.com/bhushanap/fastai/assets/83635464/d9ab9818-7f85-427f-be19-a9cdd3ab8b60)
-![grid_2](https://github.com/bhushanap/fastai/assets/83635464/e23d736b-9be3-4c5b-ab9f-ef9e856794ae)
-![grid_3](https://github.com/bhushanap/fastai/assets/83635464/9fb1fe8b-38eb-4792-876b-cf49d36baf50)
