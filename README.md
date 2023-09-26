@@ -10,8 +10,9 @@ Note: Will take a long time to run for larger images as that many forward passes
 Here are some results:
 <table>
   <tr>
-    <td><img src="https://github.com/bhushanap/fastai/raw/main/exercise1/landscapes/grid_1.png" alt="Image 1"></td>
-    <td><img src="https://github.com/bhushanap/fastai/raw/main/exercise1/landscapes/grid_2.png" alt="Image 2"></td>
-    <td><img src="https://github.com/bhushanap/fastai/raw/main/exercise1/landscapes/grid_3.png" alt="Image 3"></td>
+    <td><img src="https://github.com/bhushanap/fastai/raw/main/exercise1/landscapes/grid_1.png" alt="grid 1" height="300"></td>
+    <td><img src="https://github.com/bhushanap/fastai/raw/main/exercise1/landscapes/grid_2.png" alt="grid 2" height="300"></td>
+    <td><img src="https://github.com/bhushanap/fastai/raw/main/exercise1/landscapes/grid_3.png" alt="grid 3" height="300"></td>
   </tr>
 </table>
+
