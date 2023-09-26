@@ -1,5 +1,5 @@
 # fastai
-This is an implementation of the fastai exercises
+This is an implementation of the fastai - [practical deep learning]([url](https://course.fast.ai/)) course exercises
 
 
 Exercise 1 results (resnet34 finetuning):
